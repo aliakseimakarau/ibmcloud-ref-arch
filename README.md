@@ -108,9 +108,7 @@ Enable your IBM Cloud account to use Financial Services Validated Products
 1. Open the IBM Cloud console and click on **Manage** down arrow and select **Account** - https://cloud.ibm.com/account
 2. After selecting **Account**,select **Account settings** from the left side menu - https://cloud.ibm.com/account/settings
 3. Click **On** for the Financial Services Validated option.
-4. Read the information about enabling the setting, and select **I understand and agree to these terms**.Click **On**.
-
-[Financial Services Validated Button](./images/ibm-cloud-architecture.png)
+4. Read the information about enabling the setting, and select **I understand and agree to these terms**. Click **On**.
 
 ### Terraform IasC Automation
 
